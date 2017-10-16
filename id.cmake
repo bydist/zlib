@@ -1,11 +1,9 @@
 set(package zlib)
-set(version 1.2.11-unowhy)
 
 byd__package__info(${package}
     MAINTAINER_NAME "David Callu"
     MAINTAINER_EMAIL "callu.david@gmail.com"
-    VERSION 1.2.11-unowhy
-    PACKAGE_VERSION 0.1
+    VERSION 1.2.11-unowhy-1
     ABI 1.2
     )
 
