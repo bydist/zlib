@@ -9,7 +9,7 @@ byd__package__info(${package}
     ABI 1.2
     )
 
-byd__package__download_info(
+byd__package__download_info(${package}
     URL "https://github.com/ledocc/zlib/archive/v1.2.11-unowhy.tar.gz"
     URL_HASH SHA1=a511e8198ec8d72c7590d03fc9a01973acbbcfc8
     )
